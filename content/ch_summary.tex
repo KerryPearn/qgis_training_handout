@@ -1,0 +1,73 @@
+\chapter{Summary}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[OC]{\leftmark}
+\fancyhead[EC]{\rightmark}
+%\renewcommand{\footrulewidth}{1pt}
+\cfoot{\thepage}
+
+Here are the main take away points for this QGIS tutorial.\\
+
+\begin{enumerate}
+	\item 
+	
+Add data (layers) to your QGIS project.
+
+For your own data from a csv file, add as a delimited file 
+\begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/add_delimited_text_layer_icon.png}\end{tabular}
+
+\begin{enumerate}
+	\item 
+For point data:
+If your data contains Latitude \& Longitude, or Easting \& Northing, use these fields to plot your point data.
+
+	\item 
+
+For polygon data:
+If your data contains a unique reference code for a spatial area, use a corresponding shapefile (do a google search to find the shapefile you need, and download it). Add the shapefile to your QGIS project as a vector layer \begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/add_vector_layer_icon.png}\end{tabular}
+
+Join your csv data to the shapefile: double click on the layer name in the \textit{Layers panel} $\rightarrow$ Select \textbf{Join} in the LHS pane.\\
+Initiate a new join \begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/green_button_icon.png}\end{tabular}
+
+\end{enumerate}
+
+	\item 
+For each data layer, each feature on the map canvas (point or polygon) has a row of data in the attribute table \begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/attribute_table_icon.png}\end{tabular}. 
+	\item 
+Become familiar with your data layers (both within the map canvas and attribute table). Calculate any new fields in your attribute table that you want to visualise (or choose to do these within the relevant expression dialogs along the way \begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/expression_icon.png}\end{tabular}
+).
+
+	\item 
+Add symbology to your layers (their visual appearance) using the Layer Styling panel \begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/layer_styling_panel_icon.png}\end{tabular}.
+\begin{enumerate}
+	\item
+	Single symbol (uniform appearance)
+	\item
+	Categorized (for categorical fields)
+	\item
+	Graduated (for continuous numerical fields)
+	\item
+	Heatmap or Point cluster (for dense point data).
+\end{enumerate}
+	\item 
+Include a basemap to give your data context
+\begin{enumerate}
+	\item 
+Use a shapefile and give it appropriate \textit{single symbol} symbology (either use your own shapefile, or in the coordinate field type \textit{world})
+	\item 
+Or in Browser Panel select \textit{XYZ Tiles} $\rightarrow$ \textit{OpenStreetMap}
+\end{enumerate}
+	\item 
+Export your map.
+\begin{enumerate}
+	\item 
+Snipping/shutter
+	\item 
+Menu: Project $\rightarrow$ Import/Export
+	\item 
+Menu: Project $\rightarrow$ New Print Layout.
+
+\end{enumerate}
+
+\end{enumerate}

@@ -1,0 +1,216 @@
+\chapter{PyQGIS}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[OC]{\leftmark}
+\fancyhead[EC]{\rightmark}
+%\renewcommand{\footrulewidth}{1pt}
+\cfoot{\thepage}
+
+\section{resources}
+
+Resources for next steps.
+
+Programming this in python (PyQGIS)
+
+\url{opensourceoptions.com}
+\url{https://opensourceoptions.com/blog/loading-and-symbolizing-vector-layers/}
+
+OPEN PYTHON CONSOLE
+
+Open the python console using the icon in the toolbar
+\begin{tabular}{@{}c@{}}\includegraphics[width=4ex]{images/python_console_icon.png}\end{tabular}
+
+ADD VECTOR TO QGIS
+
+In browser panel, navigate to the shapefile, right click $\rightarrow$ Layer properties.
+
+Copy the path and assign it to a variable.
+
+location = $r"/home/kerry/Documents/QGIS/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales.shp"$
+
+iface.addVectorLayer(location, "", "ogr")
+
+layer = iface.activeLayer()
+layer.name()
+
+CHANGE SYMBOLOGY
+# create a new symbol
+$symbol = QgsLineSymbol.createSimple({'line_style': 'dash', 'color': 'red'})$
+
+
+For lines use: QgsLineSymbol
+For points use: QgsMarkerSymbol
+For polygons use: QgsFillSymbol
+
+# apply symbol to layer renderer
+layer.renderer().setSymbol(symbol)
+
+# repaint the layer
+layer.triggerRepaint()
+
+
+Find the options have to play with.
+print(layer.renderer().symbol().symbolLayers()[0].properties())
+
+#output for line
+{'capstyle': 'square', 'customdash': '5;2', 'customdash_map_unit_scale': '3x:0,0,0,0,0,0', 'customdash_unit': 'MM', 'draw_inside_polygon': '0', 'joinstyle': 'bevel', 'line_color': '152,125,183,255', 'line_style': 'solid', 'line_width': '0.26', 'line_width_unit': 'MM', 'offset': '0', 'offset_map_unit_scale': '3x:0,0,0,0,0,0', 'offset_unit': 'MM', 'use_custom_dash': '0', 'width_map_unit_scale': '3x:0,0,0,0,0,0'}
+
+#output for polygon
+{'border_width_map_unit_scale': '3x:0,0,0,0,0,0', 'color': '243,166,178,255', 'joinstyle': 'bevel', 'offset': '0,0', 'offset_map_unit_scale': '3x:0,0,0,0,0,0', 'offset_unit': 'MM', 'outline_color': '35,35,35,255', 'outline_style': 'solid', 'outline_width': '0.26', 'outline_width_unit': 'MM', 'style': 'solid'}
+
+symbol = QgsFillSymbol.createSimple({'outline_style': 'dash', 'color': 'red'})
+layer.renderer().setSymbol(symbol)
+layer.triggerRepaint()
+
+
+layer = QgsVectorLayer(location, 'name', 'ogr')
+
+for field in layer.fields():
+	print(field.name(), field.type())
+	
+	
+	
+	
+	
+
+location = r"/home/kerry/Documents/QGIS/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales.shp"
+
+%iface.addVectorLayer(location, "", "ogr")
+layer = QgsVectorLayer(location, 'name', 'ogr')
+layer.name()
+
+for field in lyr.fields():
+	print(field.name(), field.type())
+
+
+CHANGE SYMBOLOGY
+# create a new symbol
+symbol = QgsLineSymbol.createSimple({'line_style': 'dash', 'color': 'red'})
+
+
+For lines use: QgsLineSymbol
+For points use: QgsMarkerSymbol
+For polygons use: QgsFillSymbol
+
+# apply symbol to layer renderer
+layer.renderer().setSymbol(symbol)
+
+# repaint the layer
+layer.triggerRepaint()
+
+
+Find the options have to play with.
+print(layer.renderer().symbol().symbolLayers()[0].properties())
+
+#output for line
+{'capstyle': 'square', 'customdash': '5;2', 'customdash_map_unit_scale': '3x:0,0,0,0,0,0', 'customdash_unit': 'MM', 'draw_inside_polygon': '0', 'joinstyle': 'bevel', 'line_color': '152,125,183,255', 'line_style': 'solid', 'line_width': '0.26', 'line_width_unit': 'MM', 'offset': '0', 'offset_map_unit_scale': '3x:0,0,0,0,0,0', 'offset_unit': 'MM', 'use_custom_dash': '0', 'width_map_unit_scale': '3x:0,0,0,0,0,0'}
+
+#output for polygon
+{'border_width_map_unit_scale': '3x:0,0,0,0,0,0', 'color': '243,166,178,255', 'joinstyle': 'bevel', 'offset': '0,0', 'offset_map_unit_scale': '3x:0,0,0,0,0,0', 'offset_unit': 'MM', 'outline_color': '35,35,35,255', 'outline_style': 'solid', 'outline_width': '0.26', 'outline_width_unit': 'MM', 'style': 'solid'}
+
+symbol = QgsFillSymbol.createSimple({'outline_style': 'dash', 'color': 'red'})
+layer.renderer().setSymbol(symbol)
+layer.triggerRepaint()
+
+
+
+
+~LOAD IN CSV FILE
+
+from qgis.PyQt import QtGui
+
+location = r"/home/kerry/Documents/QGIS/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales/Counties_and_Unitary_Authorities_December_2016_Full_Clipped_Boundaries_in_England_and_Wales.shp"
+
+if 1 == 2:
+iface.addVectorLayer(location, "", "ogr")
+
+layer = iface.activeLayer()
+layer.name()
+
+#CHANGE SYMBOLOGY
+symbol = QgsFillSymbol.createSimple({'outline_style': 'dash', 'color': 'red'})
+layer.renderer().setSymbol(symbol)
+layer.triggerRepaint()
+else:
+layer = QgsVectorLayer(location, 'name', 'ogr')
+
+for field in layer.fields():
+print(field.name(), field.type())
+
+targetField = 'objectid'
+rangeList = []
+opacity = 1
+
+# define value ranges
+minVal = 0.0
+maxVal = 5.0
+
+# range label
+lab = 'Group 1'
+
+# color (yellow)
+rangeColor = QtGui.QColor('#ffee00')
+
+# create symbol and set properties
+symbol1 = QgsSymbol.defaultSymbol(layer.geometryType())
+symbol1.setColor(rangeColor)
+symbol1.setOpacity(opacity)
+
+#create range and append to rangeList
+range1 = QgsRendererRange(minVal, maxVal, symbol1, lab)
+rangeList.append(range1)
+
+
+
+# define value ranges
+minVal = 5.1
+maxVal = 80
+
+# range label
+lab = 'Group 2'
+
+# color (yellow)
+rangeColor = QtGui.QColor('#00eeff')
+
+# create symbol and set properties
+symbol2 = QgsSymbol.defaultSymbol(layer.geometryType())
+symbol2.setColor(rangeColor)
+symbol2.setOpacity(opacity)
+
+#create range and append to rangeList
+range2 = QgsRendererRange(minVal, maxVal, symbol2, lab)
+rangeList.append(range2)
+
+# create the renderer
+groupRenderer = QgsGraduatedSymbolRenderer('', rangeList)
+groupRenderer.setMode(QgsGraduatedSymbolRenderer.EqualInterval)
+groupRenderer.setClassAttribute(targetField)
+
+# apply renderer to layer
+layer.setRenderer(groupRenderer)
+
+# add to QGIS interface
+QgsProject.instance().addMapLayer(layer)
+
+
+
+
+#add delimited text alyer
+#https://www.geodose.com/2018/07/python-qgis-tutorial-adding-csv-data.html
+
+csvfile = "/home/kerry/GitLab/police_geography/training_datasets/sw_5forces_street_by_lsoa.csv"
+#?encoding=%s&delimiter=%s&xField=%s&yField=%s&crs=%s" % ("UTF-8",",", "Longitude", "Latitude","epsg:4326")
+
+csv_layer=QgsVectorLayer(csvfile, "street", "delimitedtext")
+
+#Check if layer is valid
+if not csv_layer.isValid():
+print ("Layer not loaded")
+
+#Add CSV data    
+QgsProject.instance().addMapLayer(csv_layer)
+
+
+
+

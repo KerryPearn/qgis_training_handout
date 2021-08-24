@@ -1,0 +1,3058 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.8.18)  21 OCT 2020 15:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main_document.tex
+(./main_document.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 9 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./settings/packages.tex
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count88
+\c@Blindtext=\count89
+\c@blind@countparstart=\count90
+\blind@countxx=\count91
+\blindtext@numBlindtext=\count92
+\blind@countyy=\count93
+\c@blindlist=\count94
+\c@blindlistlevel=\count95
+\c@blindlist@level=\count96
+\blind@listitem=\count97
+\c@blind@listcount=\count98
+\c@blind@levelcount=\count99
+\blind@mathformula=\count100
+\blind@Mathformula=\count101
+\c@blind@randomcount=\count102
+\c@blind@randommax=\count103
+\c@blind@pangramcount=\count104
+\c@blind@pangrammax=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count106
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count107
+\leftroot@=\count108
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count109
+\DOTSCASE@=\count110
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count111
+\c@MaxMatrixCols=\count112
+\dotsspace@=\muskip10
+\c@parentequation=\count113
+\dspbrk@lvl=\count114
+\tag@help=\toks15
+\row@=\count115
+\column@=\count116
+\maxfields@=\count117
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen112
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count122
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count128
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count130
+\LTcapwidth=\dimen118
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count131
+\LT@rows=\count132
+\c@LT@tables=\count133
+\c@LT@chunks=\count134
+\LT@p@ftn=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2016/11/25 v2.2 Provide larger struts in tabulars
+\bigstrutjot=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen120
+\pgfutil@tempdimb=\dimen121
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box32
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen122
+\pgf@y=\dimen123
+\pgf@xa=\dimen124
+\pgf@ya=\dimen125
+\pgf@xb=\dimen126
+\pgf@yb=\dimen127
+\pgf@xc=\dimen128
+\pgf@yc=\dimen129
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count135
+\c@pgf@countb=\count136
+\c@pgf@countc=\count137
+\c@pgf@countd=\count138
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count139
+\pgfsyssoftpath@bigbuffer@items=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen130
+\pgfmath@count=\count141
+\pgfmath@box=\box33
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count142
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen131
+\pgf@picmaxx=\dimen132
+\pgf@picminy=\dimen133
+\pgf@picmaxy=\dimen134
+\pgf@pathminx=\dimen135
+\pgf@pathmaxx=\dimen136
+\pgf@pathminy=\dimen137
+\pgf@pathmaxy=\dimen138
+\pgf@xx=\dimen139
+\pgf@xy=\dimen140
+\pgf@yx=\dimen141
+\pgf@yy=\dimen142
+\pgf@zx=\dimen143
+\pgf@zy=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen145
+\pgf@path@lasty=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen147
+\pgf@shorten@start@additional=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count143
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen150
+\pgf@pt@y=\dimen151
+\pgf@pt@temp=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen154
+\pgf@sys@shading@range@num=\count144
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box37
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box38
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen155
+\pgf@nodesepend=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen157
+\pgffor@skip=\dimen158
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count145
+\pgfplotmarksize=\dimen159
+)
+\tikz@lastx=\dimen160
+\tikz@lasty=\dimen161
+\tikz@lastxsaved=\dimen162
+\tikz@lastysaved=\dimen163
+\tikzleveldistance=\dimen164
+\tikzsiblingdistance=\dimen165
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count146
+\tikznumberofchildren=\count147
+\tikznumberofcurrentchild=\count148
+\tikz@fig@count=\count149
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count150
+\pgfmatrixcurrentcolumn=\count151
+\pgf@matrix@numberofcolumns=\count152
+)
+\tikz@expandcount=\count153
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip55
+)
+\c@@todonotes@numberoftodonotes=\count157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `main_document.idx'.
+
+
+Writing index file main_document.idx
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box43
+)
+\tc@llx=\dimen168
+\tc@lly=\dimen169
+\tc@urx=\dimen170
+\tc@ury=\dimen171
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen172
+\adjbox@Height=\dimen173
+\adjbox@Depth=\dimen174
+\adjbox@Totalheight=\dimen175
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count158
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box44
+\sift@deathcycles=\count159
+\@vwid@loff=\dimen176
+\@vwid@roff=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2017/12/10 v0.4 Package to support minimal working examples (MWE)
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count160
+))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+)
+\c@ContinuedFloat=\count161
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+))
+\c@subfigure=\count162
+\c@subtable=\count163
+))
+(./settings/page.tex
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count164
+\Gm@cntv=\count165
+\c@Gm@tempcnt=\count166
+\Gm@bindingoffset=\dimen185
+\Gm@wd@mp=\dimen186
+\Gm@odd@mp=\dimen187
+\Gm@even@mp=\dimen188
+\Gm@layoutwidth=\dimen189
+\Gm@layoutheight=\dimen190
+\Gm@layouthoffset=\dimen191
+\Gm@layoutvoffset=\dimen192
+\Gm@dimlist=\toks36
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+(./settings/macros.tex) (./main_document.aux
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+
+LaTeX Warning: Label `ft_fig_firstfig3' multiply defined.
+
+)
+\openout1 = `main_document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring ON on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count167
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
+
+(./main_document.out) (./main_document.out)
+\@outlinefile=\write5
+\openout5 = `main_document.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count168
+\scratchdimen=\dimen193
+\scratchbox=\box46
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count171
+\MPscratchDim=\dimen194
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks38
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 686.84944pt, 51.21504pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=686.84944pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-45.43198pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./content/title_page.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./main_document.tocpdfTe
+X warning (ext4): destination with the same identifier (name{page.1}) has been 
+already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 ...numberline {12}Add labels}{34}{chapter.12}
+                                                   [1
+
+])
+\tf@toc=\write6
+\openout6 = `main_document.toc'.
+
+ (./content/ch_intro.tex [2]
+Chapter 1.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[3
+
+]
+<images/headquarter_crime_map.png, id=404, 844.8363pt x 597.432pt>
+File: images/headquarter_crime_map.png Graphic file (type png)
+<use images/headquarter_crime_map.png>
+Package pdftex.def Info: images/headquarter_crime_map.png  used on input line 7
+9.
+(pdftex.def)             Requested size: 424.82523pt x 300.41997pt.
+) (./content/ch_enviro.tex [4 <./images/headquarter_crime_map.png>]
+Chapter 2.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+<images/new_project_icon.png, id=420, 27.10126pt x 32.12pt>
+File: images/new_project_icon.png Graphic file (type png)
+<use images/new_project_icon.png>
+Package pdftex.def Info: images/new_project_icon.png  used on input line 18.
+(pdftex.def)             Requested size: 12.91663pt x 15.30861pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<images/open_qgis_screenshot_new_project.png, id=421, 1571.8725pt x 845.1575pt>
+
+File: images/open_qgis_screenshot_new_project.png Graphic file (type png)
+<use images/open_qgis_screenshot_new_project.png>
+Package pdftex.def Info: images/open_qgis_screenshot_new_project.png  used on i
+nput line 22.
+(pdftex.def)             Requested size: 292.65706pt x 157.34468pt.
+<images/full_window.png, id=422, 1144.275pt x 740.7675pt>
+File: images/full_window.png Graphic file (type png)
+<use images/full_window.png>
+Package pdftex.def Info: images/full_window.png  used on input line 33.
+(pdftex.def)             Requested size: 292.65706pt x 189.45271pt.
+[5
+
+ <./images/new_project_icon.png> <./images/open_qgis_screenshot_new_project.png
+> <./images/full_window.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+) (./content/ch_basemap.tex [6]
+Chapter 3.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+<images/coordinate_field_world.png, id=449, 1421.31pt x 886.31125pt>
+File: images/coordinate_field_world.png Graphic file (type png)
+<use images/coordinate_field_world.png>
+Package pdftex.def Info: images/coordinate_field_world.png  used on input line 
+32.
+(pdftex.def)             Requested size: 330.42041pt x 206.03818pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[7
+
+ <./images/coordinate_field_world.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+<images/openstreetmap_EPSG3857.png, id=455, 1926.19624pt x 1034.86626pt>
+File: images/openstreetmap_EPSG3857.png Graphic file (type png)
+<use images/openstreetmap_EPSG3857.png>
+Package pdftex.def Info: images/openstreetmap_EPSG3857.png  used on input line 
+61.
+(pdftex.def)             Requested size: 472.03123pt x 253.59972pt.
+) (./content/ch_mapnav.tex
+Underfull \hbox (badness 1152) in paragraph at lines 68--1
+[]\OT1/cmr/m/n/10 If you do use Open-StreetMap, please pay at-ten-tion to their
+ copy-right and li-cence [][]$\OT1/cmtt/m/n/10 https : / / www .
+ []
+
+[8 <./images/openstreetmap_EPSG3857.png>]
+Chapter 4.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+<images/map_navigation_toolbar_icons.png, id=465, 468.75125pt x 39.14626pt>
+File: images/map_navigation_toolbar_icons.png Graphic file (type png)
+<use images/map_navigation_toolbar_icons.png>
+Package pdftex.def Info: images/map_navigation_toolbar_icons.png  used on input
+ line 21.
+(pdftex.def)             Requested size: 236.01561pt x 19.70985pt.
+<images/scale_status_bar.png, id=466, 139.52126pt x 27.10126pt>
+File: images/scale_status_bar.png Graphic file (type png)
+<use images/scale_status_bar.png>
+Package pdftex.def Info: images/scale_status_bar.png  used on input line 27.
+(pdftex.def)             Requested size: 34.44434pt x 6.69052pt.
+<images/bookmark_icons.png, id=467, 62.2325pt x 35.13126pt>
+File: images/bookmark_icons.png Graphic file (type png)
+<use images/bookmark_icons.png>
+Package pdftex.def Info: images/bookmark_icons.png  used on input line 31.
+(pdftex.def)             Requested size: 17.22217pt x 9.72195pt.
+<images/spatial_bookmarks_panel.png, id=468, 716.6775pt x 125.46875pt>
+File: images/spatial_bookmarks_panel.png Graphic file (type png)
+<use images/spatial_bookmarks_panel.png>
+Package pdftex.def Info: images/spatial_bookmarks_panel.png  used on input line
+ 35.
+(pdftex.def)             Requested size: 236.01561pt x 41.31865pt.
+<images/new_map_view_icon.png, id=469, 34.1275pt x 32.12pt>
+File: images/new_map_view_icon.png Graphic file (type png)
+<use images/new_map_view_icon.png>
+Package pdftex.def Info: images/new_map_view_icon.png  used on input line 41.
+(pdftex.def)             Requested size: 17.22217pt x 16.20894pt.
+<images/three_map_views.png, id=470, 1782.66pt x 970.62625pt>
+File: images/three_map_views.png Graphic file (type png)
+<use images/three_map_views.png>
+Package pdftex.def Info: images/three_map_views.png  used on input line 46.
+(pdftex.def)             Requested size: 188.8096pt x 102.79999pt.
+) (./content/ch_layer.tex [9
+
+ <./images/map_navigation_toolbar_icons.png (PNG copy)> <./images/scale_status_
+bar.png> <./images/bookmark_icons.png> <./images/spatial_bookmarks_panel.png> <
+./images/new_map_view_icon.png> <./images/three_map_views.png>]
+Chapter 5.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+<images/attribute_table_icon.png, id=484, 29.10875pt x 32.12pt>
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 27
+.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+<images/right_click_layername_cropped.png, id=485, 321.2pt x 427.5975pt>
+File: images/right_click_layername_cropped.png Graphic file (type png)
+<use images/right_click_layername_cropped.png>
+Package pdftex.def Info: images/right_click_layername_cropped.png  used on inpu
+t line 32.
+(pdftex.def)             Requested size: 141.61081pt x 188.5219pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[10
+
+ <./images/attribute_table_icon.png> <./images/right_click_layername_cropped.pn
+g>]
+<images/world_attribute_table.png, id=491, 990.70125pt x 511.9125pt>
+File: images/world_attribute_table.png Graphic file (type png)
+<use images/world_attribute_table.png>
+Package pdftex.def Info: images/world_attribute_table.png  used on input line 4
+1.
+(pdftex.def)             Requested size: 283.22162pt x 146.34181pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<images/world_attribute_table_select1_redbox.png, id=492, 1467.4825pt x 757.831
+25pt>
+File: images/world_attribute_table_select1_redbox.png Graphic file (type png)
+<use images/world_attribute_table_select1_redbox.png>
+Package pdftex.def Info: images/world_attribute_table_select1_redbox.png  used 
+on input line 55.
+(pdftex.def)             Requested size: 259.6186pt x 134.0679pt.
+<images/dock_attribute_table_icon.png, id=493, 28.105pt x 24.09pt>
+File: images/dock_attribute_table_icon.png Graphic file (type png)
+<use images/dock_attribute_table_icon.png>
+Package pdftex.def Info: images/dock_attribute_table_icon.png  used on input li
+ne 61.
+(pdftex.def)             Requested size: 17.22217pt x 14.7625pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+<images/attribute_and_map_navigation_toolbars_icons.png, id=494, 942.52126pt x 
+37.13875pt>
+File: images/attribute_and_map_navigation_toolbars_icons.png Graphic file (type
+ png)
+<use images/attribute_and_map_navigation_toolbars_icons.png>
+Package pdftex.def Info: images/attribute_and_map_navigation_toolbars_icons.png
+  used on input line 67.
+(pdftex.def)             Requested size: 472.03123pt x 18.59991pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[11 <./images/world_attribute_table.png> <./images/world_attribute_table_select
+1_redbox.png> <./images/dock_attribute_table_icon.png (PNG copy)> <./images/att
+ribute_and_map_navigation_toolbars_icons.png (PNG copy)>]
+<images/world_map_1_select_zoom.png, id=503, 1134.2375pt x 886.31125pt>
+File: images/world_map_1_select_zoom.png Graphic file (type png)
+<use images/world_map_1_select_zoom.png>
+Package pdftex.def Info: images/world_map_1_select_zoom.png  used on input line
+ 76.
+(pdftex.def)             Requested size: 377.62642pt x 295.08022pt.
+<images/deselect_features_icon.png, id=504, 31.11626pt x 32.12pt>
+File: images/deselect_features_icon.png Graphic file (type png)
+<use images/deselect_features_icon.png>
+Package pdftex.def Info: images/deselect_features_icon.png  used on input line 
+82.
+(pdftex.def)             Requested size: 17.22217pt x 17.77779pt.
+<images/full_zoom_icon.png, id=505, 36.135pt x 33.12375pt>
+File: images/full_zoom_icon.png Graphic file (type png)
+<use images/full_zoom_icon.png>
+Package pdftex.def Info: images/full_zoom_icon.png  used on input line 84.
+(pdftex.def)             Requested size: 17.22217pt x 15.787pt.
+<images/identify_feature_icon.png, id=506, 32.12pt x 33.12375pt>
+File: images/identify_feature_icon.png Graphic file (type png)
+<use images/identify_feature_icon.png>
+Package pdftex.def Info: images/identify_feature_icon.png  used on input line 9
+2.
+(pdftex.def)             Requested size: 17.22217pt x 17.7607pt.
+<images/world_identify_feature.png, id=507, 1578.89874pt x 840.13875pt>
+File: images/world_identify_feature.png Graphic file (type png)
+<use images/world_identify_feature.png>
+Package pdftex.def Info: images/world_identify_feature.png  used on input line 
+98.
+(pdftex.def)             Requested size: 283.22162pt x 150.69284pt.
+<images/select_features_by_polygon_icon.png, id=508, 46.1725pt x 33.12375pt>
+File: images/select_features_by_polygon_icon.png Graphic file (type png)
+<use images/select_features_by_polygon_icon.png>
+Package pdftex.def Info: images/select_features_by_polygon_icon.png  used on in
+put line 106.
+(pdftex.def)             Requested size: 17.22217pt x 12.35515pt.
+<images/move_selection_to_top_icon.png, id=509, 31.11626pt x 31.11626pt>
+File: images/move_selection_to_top_icon.png Graphic file (type png)
+<use images/move_selection_to_top_icon.png>
+Package pdftex.def Info: images/move_selection_to_top_icon.png  used on input l
+ine 108.
+(pdftex.def)             Requested size: 17.22217pt x 17.22223pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
+
+ []
+
+[12 <./images/world_map_1_select_zoom.png> <./images/deselect_features_icon.png
+ (PNG copy)> <./images/full_zoom_icon.png (PNG copy)> <./images/identify_featur
+e_icon.png> <./images/world_identify_feature.png>]
+<images/select_features_by_polygon_dropdown.png, id=519, 209.78375pt x 141.5287
+5pt>
+File: images/select_features_by_polygon_dropdown.png Graphic file (type png)
+<use images/select_features_by_polygon_dropdown.png>
+Package pdftex.def Info: images/select_features_by_polygon_dropdown.png  used o
+n input line 112.
+(pdftex.def)             Requested size: 165.2138pt x 111.46095pt.
+<images/world_select_features_to_top.png, id=520, 1390.19376pt x 887.315pt>
+File: images/world_select_features_to_top.png Graphic file (type png)
+<use images/world_select_features_to_top.png>
+Package pdftex.def Info: images/world_select_features_to_top.png  used on input
+ line 119.
+(pdftex.def)             Requested size: 401.22942pt x 256.08267pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+File: images/deselect_features_icon.png Graphic file (type png)
+<use images/deselect_features_icon.png>
+Package pdftex.def Info: images/deselect_features_icon.png  used on input line 
+127.
+(pdftex.def)             Requested size: 17.22217pt x 17.77779pt.
+[13 <./images/select_features_by_polygon_icon.png> <./images/move_selection_to_
+top_icon.png> <./images/select_features_by_polygon_dropdown.png> <./images/worl
+d_select_features_to_top.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<images/layer_properties_window.png, id=528, 1201.48875pt x 765.86125pt>
+File: images/layer_properties_window.png Graphic file (type png)
+<use images/layer_properties_window.png>
+Package pdftex.def Info: images/layer_properties_window.png  used on input line
+ 182.
+(pdftex.def)             Requested size: 377.62642pt x 240.71pt.
+<images/save_project_icon.png, id=529, 28.105pt x 28.105pt>
+File: images/save_project_icon.png Graphic file (type png)
+<use images/save_project_icon.png>
+Package pdftex.def Info: images/save_project_icon.png  used on input line 208.
+(pdftex.def)             Requested size: 17.22217pt x 17.22292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+<images/open_project_icon.png, id=530, 34.1275pt x 31.11626pt>
+File: images/open_project_icon.png Graphic file (type png)
+<use images/open_project_icon.png>
+Package pdftex.def Info: images/open_project_icon.png  used on input line 210.
+(pdftex.def)             Requested size: 17.22217pt x 15.70241pt.
+) (./content/ch_proj.tex [14 <./images/layer_properties_window.png (PNG copy)> 
+<./images/save_project_icon.png> <./images/open_project_icon.png>]
+Chapter 6.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+<images/project_properties_window_crs.png, id=546, 883.3pt x 886.31125pt>
+File: images/project_properties_window_crs.png Graphic file (type png)
+<use images/project_properties_window_crs.png>
+Package pdftex.def Info: images/project_properties_window_crs.png  used on inpu
+t line 25.
+(pdftex.def)             Requested size: 283.22162pt x 284.17987pt.
+[15
+
+ <./images/project_properties_window_crs.png>]
+<images/uk_epsg4326.png, id=552, 692.5875pt x 792.9625pt>
+File: images/uk_epsg4326.png Graphic file (type png)
+<use images/uk_epsg4326.png>
+Package pdftex.def Info: images/uk_epsg4326.png  used on input line 36.
+(pdftex.def)             Requested size: 151.04825pt x 172.93983pt.
+<images/uk_epsg32630.png, id=553, 477.785pt x 740.7675pt>
+File: images/uk_epsg32630.png Graphic file (type png)
+<use images/uk_epsg32630.png>
+Package pdftex.def Info: images/uk_epsg32630.png  used on input line 41.
+(pdftex.def)             Requested size: 115.64915pt x 179.30246pt.
+<images/world_map_EPSG32630.png, id=554, 1925.1925pt x 1203.49625pt>
+File: images/world_map_EPSG32630.png Graphic file (type png)
+<use images/world_map_EPSG32630.png>
+Package pdftex.def Info: images/world_map_EPSG32630.png  used on input line 50.
+
+(pdftex.def)             Requested size: 236.01561pt x 147.53517pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+) (./content/ch_selfeat.tex [16 <./images/uk_epsg4326.png> <./images/uk_epsg326
+30.png> <./images/world_map_EPSG32630.png>]
+Chapter 7.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+File: images/select_features_by_polygon_icon.png Graphic file (type png)
+<use images/select_features_by_polygon_icon.png>
+Package pdftex.def Info: images/select_features_by_polygon_icon.png  used on in
+put line 20.
+(pdftex.def)             Requested size: 17.22217pt x 12.35515pt.
+<images/world_select_uk.png, id=565, 1268.74pt x 799.98875pt>
+File: images/world_select_uk.png Graphic file (type png)
+<use images/world_select_uk.png>
+Package pdftex.def Info: images/world_select_uk.png  used on input line 26.
+(pdftex.def)             Requested size: 236.01561pt x 148.81346pt.
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 36
+.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+<images/select_features_form_icon.png, id=566, 27.10126pt x 26.0975pt>
+File: images/select_features_form_icon.png Graphic file (type png)
+<use images/select_features_form_icon.png>
+Package pdftex.def Info: images/select_features_form_icon.png  used on input li
+ne 40.
+(pdftex.def)             Requested size: 17.22217pt x 16.58525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+[17
+
+ <./images/world_select_uk.png> <./images/select_features_form_icon.png>]
+<images/select_filter_features_form_uk.png, id=575, 1268.74pt x 339.2675pt>
+File: images/select_filter_features_form_uk.png Graphic file (type png)
+<use images/select_filter_features_form_uk.png>
+Package pdftex.def Info: images/select_filter_features_form_uk.png  used on inp
+ut line 47.
+(pdftex.def)             Requested size: 330.42041pt x 88.35242pt.
+<images/form_table_icons.png, id=576, 48.18pt x 25.09375pt>
+File: images/form_table_icons.png Graphic file (type png)
+<use images/form_table_icons.png>
+Package pdftex.def Info: images/form_table_icons.png  used on input line 55.
+(pdftex.def)             Requested size: 17.22217pt x 8.96979pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+File: images/select_features_form_icon.png Graphic file (type png)
+<use images/select_features_form_icon.png>
+Package pdftex.def Info: images/select_features_form_icon.png  used on input li
+ne 58.
+(pdftex.def)             Requested size: 17.22217pt x 16.58525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+<images/zoom_map_to_selection_icon.png, id=577, 27.10126pt x 24.09pt>
+File: images/zoom_map_to_selection_icon.png Graphic file (type png)
+<use images/zoom_map_to_selection_icon.png>
+Package pdftex.def Info: images/zoom_map_to_selection_icon.png  used on input l
+ine 61.
+(pdftex.def)             Requested size: 17.22217pt x 15.30946pt.
+<images/pan_map_to_selection_icon.png, id=578, 34.1275pt x 27.10126pt>
+File: images/pan_map_to_selection_icon.png Graphic file (type png)
+<use images/pan_map_to_selection_icon.png>
+Package pdftex.def Info: images/pan_map_to_selection_icon.png  used on input li
+ne 63.
+(pdftex.def)             Requested size: 17.22217pt x 13.6763pt.
+<images/select_by_expression_icon.png, id=579, 24.09pt x 27.10126pt>
+File: images/select_by_expression_icon.png Graphic file (type png)
+<use images/select_by_expression_icon.png>
+Package pdftex.def Info: images/select_by_expression_icon.png  used on input li
+ne 69.
+(pdftex.def)             Requested size: 17.22217pt x 19.37476pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+<images/select_by_expression_form_uk.png, id=580, 872.25874pt x 519.9425pt>
+File: images/select_by_expression_form_uk.png Graphic file (type png)
+<use images/select_by_expression_form_uk.png>
+Package pdftex.def Info: images/select_by_expression_form_uk.png  used on input
+ line 75.
+(pdftex.def)             Requested size: 283.22162pt x 168.82063pt.
+[18 <./images/select_filter_features_form_uk.png> <./images/form_table_icons.pn
+g> <./images/zoom_map_to_selection_icon.png> <./images/pan_map_to_selection_ico
+n.png> <./images/select_by_expression_icon.png> <./images/select_by_expression_
+form_uk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<images/three_dots_button.png, id=589, 35.13126pt x 29.10875pt>
+File: images/three_dots_button.png Graphic file (type png)
+<use images/three_dots_button.png>
+Package pdftex.def Info: images/three_dots_button.png  used on input line 99.
+(pdftex.def)             Requested size: 17.22217pt x 14.26962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+
+ []
+
+<images/save_as_vector_layer_form.png, id=590, 595.22375pt x 667.49374pt>
+File: images/save_as_vector_layer_form.png Graphic file (type png)
+<use images/save_as_vector_layer_form.png>
+Package pdftex.def Info: images/save_as_vector_layer_form.png  used on input li
+ne 107.
+(pdftex.def)             Requested size: 283.22162pt x 317.60263pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+) (./content/ch_symbsgl.tex [19 <./images/three_dots_button.png> <./images/save
+_as_vector_layer_form.png>]
+Chapter 8.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+<images/layer_styling_panel_icon.png, id=596, 24.09pt x 25.09375pt>
+File: images/layer_styling_panel_icon.png Graphic file (type png)
+<use images/layer_styling_panel_icon.png>
+Package pdftex.def Info: images/layer_styling_panel_icon.png  used on input lin
+e 12.
+(pdftex.def)             Requested size: 17.22217pt x 17.93958pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--33
+
+ []
+
+<images/symb_land_and_sea.png, id=597, 1566.85374pt x 832.10875pt>
+File: images/symb_land_and_sea.png Graphic file (type png)
+<use images/symb_land_and_sea.png>
+Package pdftex.def Info: images/symb_land_and_sea.png  used on input line 36.
+(pdftex.def)             Requested size: 472.03123pt x 250.67569pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/styling_redo_undo_icon.png, id=598, 59.22125pt x 29.10875pt>
+File: images/styling_redo_undo_icon.png Graphic file (type png)
+<use images/styling_redo_undo_icon.png>
+Package pdftex.def Info: images/styling_redo_undo_icon.png  used on input line 
+53.
+(pdftex.def)             Requested size: 17.22217pt x 8.46486pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+<images/uk_with_coast.png, id=599, 546.04pt x 763.85374pt>
+File: images/uk_with_coast.png Graphic file (type png)
+<use images/uk_with_coast.png>
+Package pdftex.def Info: images/uk_with_coast.png  used on input line 60.
+(pdftex.def)             Requested size: 236.01561pt x 330.16405pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./content/ch_dptdata.tex [20
+
+ <./images/layer_styling_panel_icon.png> <./images/styling_redo_undo_icon.png (
+PNG copy)>] [21 <./images/symb_land_and_sea.png> <./images/uk_with_coast.png>]
+Chapter 9.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<images/image1.png, id=610, 1509.64pt x 156.585pt>
+File: images/image1.png Graphic file (type png)
+<use images/image1.png>
+Package pdftex.def Info: images/image1.png  used on input line 21.
+(pdftex.def)             Requested size: 472.03123pt x 48.95897pt.
+<images/add_delimited_text_layer_icon.png, id=611, 38.1425pt x 37.13875pt>
+File: images/add_delimited_text_layer_icon.png Graphic file (type png)
+<use images/add_delimited_text_layer_icon.png>
+Package pdftex.def Info: images/add_delimited_text_layer_icon.png  used on inpu
+t line 39.
+(pdftex.def)             Requested size: 17.22217pt x 16.76952pt.
+<images/data_source_manager_icon.png, id=612, 39.14626pt x 35.13126pt>
+File: images/data_source_manager_icon.png Graphic file (type png)
+<use images/data_source_manager_icon.png>
+Package pdftex.def Info: images/data_source_manager_icon.png  used on input lin
+e 44.
+(pdftex.def)             Requested size: 17.22217pt x 15.45618pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--56
+
+ []
+
+<images/add_delimited_text_stop_and_search.png, id=613, 1109.14375pt x 866.2362
+5pt>
+File: images/add_delimited_text_stop_and_search.png Graphic file (type png)
+<use images/add_delimited_text_stop_and_search.png>
+Package pdftex.def Info: images/add_delimited_text_stop_and_search.png  used on
+ input line 59.
+(pdftex.def)             Requested size: 283.22162pt x 221.19794pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+<images/stop_search_38832_points_over_uk.png, id=614, 573.14125pt x 715.67375pt
+>
+File: images/stop_search_38832_points_over_uk.png Graphic file (type png)
+<use images/stop_search_38832_points_over_uk.png>
+Package pdftex.def Info: images/stop_search_38832_points_over_uk.png  used on i
+nput line 69.
+(pdftex.def)             Requested size: 188.8096pt x 235.76901pt.
+[22
+
+ <./images/image1.png> <./images/add_delimited_text_layer_icon.png> <./images/d
+ata_source_manager_icon.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+[23 <./images/add_delimited_text_stop_and_search.png (PNG copy)> <./images/stop
+_search_38832_points_over_uk.png>]
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 85
+.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+<images/right_click_layername.png, id=631, 323.70938pt x 551.81157pt>
+File: images/right_click_layername.png Graphic file (type png)
+<use images/right_click_layername.png>
+Package pdftex.def Info: images/right_click_layername.png  used on input line 9
+1.
+(pdftex.def)             Requested size: 141.61081pt x 241.40013pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+<images/stop_search_attribute_table.png, id=632, 990.70125pt x 508.90125pt>
+File: images/stop_search_attribute_table.png Graphic file (type png)
+<use images/stop_search_attribute_table.png>
+Package pdftex.def Info: images/stop_search_attribute_table.png  used on input 
+line 101.
+(pdftex.def)             Requested size: 283.22162pt x 145.48097pt.
+[24 <./images/right_click_layername.png> <./images/stop_search_attribute_table.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+<images/stop_search_one_row_selected_redbox.png, id=640, 1172.38pt x 883.3pt>
+File: images/stop_search_one_row_selected_redbox.png Graphic file (type png)
+<use images/stop_search_one_row_selected_redbox.png>
+Package pdftex.def Info: images/stop_search_one_row_selected_redbox.png  used o
+n input line 118.
+(pdftex.def)             Requested size: 236.01561pt x 177.81598pt.
+File: images/attribute_and_map_navigation_toolbars_icons.png Graphic file (type
+ png)
+<use images/attribute_and_map_navigation_toolbars_icons.png>
+Package pdftex.def Info: images/attribute_and_map_navigation_toolbars_icons.png
+  used on input line 127.
+(pdftex.def)             Requested size: 472.03123pt x 18.59991pt.
+File: images/dock_attribute_table_icon.png Graphic file (type png)
+<use images/dock_attribute_table_icon.png>
+Package pdftex.def Info: images/dock_attribute_table_icon.png  used on input li
+ne 133.
+(pdftex.def)             Requested size: 17.22217pt x 14.7625pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+ []
+
+[25 <./images/stop_search_one_row_selected_redbox.png>]
+<images/stop_search_one_row_selected_oldest_date_redbox_docked_at_table.png, id
+=648, 1169.36874pt x 880.28876pt>
+File: images/stop_search_one_row_selected_oldest_date_redbox_docked_at_table.pn
+g Graphic file (type png)
+<use images/stop_search_one_row_selected_oldest_date_redbox_docked_at_table.png
+>
+Package pdftex.def Info: images/stop_search_one_row_selected_oldest_date_redbox
+_docked_at_table.png  used on input line 141.
+(pdftex.def)             Requested size: 236.01561pt x 177.66647pt.
+File: images/identify_feature_icon.png Graphic file (type png)
+<use images/identify_feature_icon.png>
+Package pdftex.def Info: images/identify_feature_icon.png  used on input line 1
+50.
+(pdftex.def)             Requested size: 17.22217pt x 17.7607pt.
+<images/stop_search_identify_feature.png, id=649, 1061.9675pt x 519.9425pt>
+File: images/stop_search_identify_feature.png Graphic file (type png)
+<use images/stop_search_identify_feature.png>
+Package pdftex.def Info: images/stop_search_identify_feature.png  used on input
+ line 158.
+(pdftex.def)             Requested size: 259.6186pt x 127.11331pt.
+File: images/select_features_by_polygon_icon.png Graphic file (type png)
+<use images/select_features_by_polygon_icon.png>
+Package pdftex.def Info: images/select_features_by_polygon_icon.png  used on in
+put line 168.
+(pdftex.def)             Requested size: 17.22217pt x 12.35515pt.
+File: images/select_features_by_polygon_dropdown.png Graphic file (type png)
+<use images/select_features_by_polygon_dropdown.png>
+Package pdftex.def Info: images/select_features_by_polygon_dropdown.png  used o
+n input line 173.
+(pdftex.def)             Requested size: 94.4048pt x 63.6895pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/move_selection_to_top_icon.png Graphic file (type png)
+<use images/move_selection_to_top_icon.png>
+Package pdftex.def Info: images/move_selection_to_top_icon.png  used on input l
+ine 179.
+(pdftex.def)             Requested size: 17.22217pt x 17.22223pt.
+<images/stop_search_select_features.png, id=650, 1027.84pt x 775.89874pt>
+File: images/stop_search_select_features.png Graphic file (type png)
+<use images/stop_search_select_features.png>
+Package pdftex.def Info: images/stop_search_select_features.png  used on input 
+line 184.
+(pdftex.def)             Requested size: 236.01561pt x 178.15697pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./images/stop_search_one_row_selected_oldest_date_redbox_docked_at_table.p
+ng> <./images/stop_search_identify_feature.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 190--193
+
+ []
+
+<images/heatmap3.png, id=659, 1208.515pt x 803.0pt>
+File: images/heatmap3.png Graphic file (type png)
+<use images/heatmap3.png>
+Package pdftex.def Info: images/heatmap3.png  used on input line 233.
+(pdftex.def)             Requested size: 236.01561pt x 156.81105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--245
+
+ []
+
+[27 <./images/stop_search_select_features.png> <./images/heatmap3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<images/point_cluster_layer_styling_panel.png, id=671, 438.63875pt x 423.5825pt
+>
+File: images/point_cluster_layer_styling_panel.png Graphic file (type png)
+<use images/point_cluster_layer_styling_panel.png>
+Package pdftex.def Info: images/point_cluster_layer_styling_panel.png  used on 
+input line 252.
+(pdftex.def)             Requested size: 141.61081pt x 136.75134pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+<images/point_clustering_cluster_size.png, id=672, 585.18625pt x 919.435pt>
+File: images/point_clustering_cluster_size.png Graphic file (type png)
+<use images/point_clustering_cluster_size.png>
+Package pdftex.def Info: images/point_clustering_cluster_size.png  used on inpu
+t line 268.
+(pdftex.def)             Requested size: 135.94516pt x 213.59807pt.
+<images/point_cluster_map.png, id=673, 824.07875pt x 785.93625pt>
+File: images/point_cluster_map.png Graphic file (type png)
+<use images/point_cluster_map.png>
+Package pdftex.def Info: images/point_cluster_map.png  used on input line 273.
+(pdftex.def)             Requested size: 226.57297pt x 216.07916pt.
+) (./content/ch_groups.tex [28 <./images/point_cluster_layer_styling_panel.png>
+ <./images/point_clustering_cluster_size.png> <./images/point_cluster_map.png>]
+Chapter 10.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+<images/add_group_icon.png, id=681, 24.09pt x 26.0975pt>
+File: images/add_group_icon.png Graphic file (type png)
+<use images/add_group_icon.png>
+Package pdftex.def Info: images/add_group_icon.png  used on input line 19.
+(pdftex.def)             Requested size: 17.22217pt x 18.65717pt.
+<images/group_layers1.png, id=682, 542.025pt x 204.765pt>
+File: images/group_layers1.png Graphic file (type png)
+<use images/group_layers1.png>
+Package pdftex.def Info: images/group_layers1.png  used on input line 27.
+(pdftex.def)             Requested size: 188.8096pt x 71.32825pt.
+) (./content/ch_sptdata.tex [29
+
+ <./images/add_group_icon.png> <./images/group_layers1.png>]
+Chapter 11.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[][][]$\OT1/cmtt/m/n/10 https : / / www . ordnancesurvey . co . uk / business-[
+]and-[]government / products / code-[]point-[]open . html$[][]
+ []
+
+<images/headquarters_csv.png, id=690, 1403.2425pt x 203.76125pt>
+File: images/headquarters_csv.png Graphic file (type png)
+<use images/headquarters_csv.png>
+Package pdftex.def Info: images/headquarters_csv.png  used on input line 23.
+(pdftex.def)             Requested size: 377.62642pt x 54.83282pt.
+File: images/add_delimited_text_layer_icon.png Graphic file (type png)
+<use images/add_delimited_text_layer_icon.png>
+Package pdftex.def Info: images/add_delimited_text_layer_icon.png  used on inpu
+t line 31.
+(pdftex.def)             Requested size: 17.22217pt x 16.76952pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--43
+
+ []
+
+<images/data_source_manager_add_delimited_text.png, id=691, 1244.65pt x 811.03p
+t>
+File: images/data_source_manager_add_delimited_text.png Graphic file (type png)
+
+<use images/data_source_manager_add_delimited_text.png>
+Package pdftex.def Info: images/data_source_manager_add_delimited_text.png  use
+d on input line 46.
+(pdftex.def)             Requested size: 377.62642pt x 246.07057pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30
+
+ <./images/headquarters_csv.png (PNG copy)>]
+<images/headquarters_added_to_map.png, id=698, 1486.55376pt x 778.91pt>
+File: images/headquarters_added_to_map.png Graphic file (type png)
+<use images/headquarters_added_to_map.png>
+Package pdftex.def Info: images/headquarters_added_to_map.png  used on input li
+ne 60.
+(pdftex.def)             Requested size: 472.03123pt x 247.33089pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[31 <./images/data_source_manager_add_delimited_text.png (PNG copy)> <./images/
+headquarters_added_to_map.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<images/symbol_change_button.png, id=705, 342.27875pt x 29.10875pt>
+File: images/symbol_change_button.png Graphic file (type png)
+<use images/symbol_change_button.png>
+Package pdftex.def Info: images/symbol_change_button.png  used on input line 89
+.
+(pdftex.def)             Requested size: 111.94409pt x 9.52019pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+<images/symbol_symbology.png, id=706, 1532.72626pt x 866.23625pt>
+File: images/symbol_symbology.png Graphic file (type png)
+<use images/symbol_symbology.png>
+Package pdftex.def Info: images/symbol_symbology.png  used on input line 101.
+(pdftex.def)             Requested size: 472.03123pt x 266.7725pt.
+<images/headquarters_styled.png, id=707, 1487.5575pt x 776.9025pt>
+File: images/headquarters_styled.png Graphic file (type png)
+<use images/headquarters_styled.png>
+Package pdftex.def Info: images/headquarters_styled.png  used on input line 108
+.
+(pdftex.def)             Requested size: 472.03123pt x 246.52747pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32 <./images/symbol_change_button.png> <./images/symbol_symbology.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<images/headquarter_rule_based_styles1.png, id=713, 811.03pt x 499.8675pt>
+File: images/headquarter_rule_based_styles1.png Graphic file (type png)
+<use images/headquarter_rule_based_styles1.png>
+Package pdftex.def Info: images/headquarter_rule_based_styles1.png  used on inp
+ut line 122.
+(pdftex.def)             Requested size: 236.01561pt x 145.46126pt.
+) (./content/ch_labels.tex
+Underfull \hbox (badness 10000) in paragraph at lines 135--1
+
+ []
+
+[33 <./images/headquarters_styled.png> <./images/headquarter_rule_based_styles1
+.png (PNG copy)>]
+Chapter 12.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 7.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+<images/point_label.png, id=720, 906.38625pt x 934.49126pt>
+File: images/point_label.png Graphic file (type png)
+<use images/point_label.png>
+Package pdftex.def Info: images/point_label.png  used on input line 56.
+(pdftex.def)             Requested size: 188.8096pt x 194.65193pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[34
+
+ <./images/point_label.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+<images/rule_based_labels.png, id=736, 865.2325pt x 564.1075pt>
+File: images/rule_based_labels.png Graphic file (type png)
+<use images/rule_based_labels.png>
+Package pdftex.def Info: images/rule_based_labels.png  used on input line 72.
+(pdftex.def)             Requested size: 165.2138pt x 107.7152pt.
+<images/expression_icon.png, id=737, 32.12pt x 29.10875pt>
+File: images/expression_icon.png Graphic file (type png)
+<use images/expression_icon.png>
+Package pdftex.def Info: images/expression_icon.png  used on input line 79.
+(pdftex.def)             Requested size: 17.22217pt x 15.60788pt.
+<images/rule_based_labels1a.png, id=738, 591.20876pt x 299.1175pt>
+File: images/rule_based_labels1a.png Graphic file (type png)
+<use images/rule_based_labels1a.png>
+Package pdftex.def Info: images/rule_based_labels1a.png  used on input line 84.
+
+(pdftex.def)             Requested size: 188.8096pt x 95.52328pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+<images/blue_triangle_icon.png, id=739, 35.13126pt x 29.10875pt>
+File: images/blue_triangle_icon.png Graphic file (type png)
+<use images/blue_triangle_icon.png>
+Package pdftex.def Info: images/blue_triangle_icon.png  used on input line 91.
+(pdftex.def)             Requested size: 17.22217pt x 14.26962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+<images/rule_based_labels2.png, id=740, 626.34pt x 403.5075pt>
+File: images/rule_based_labels2.png Graphic file (type png)
+<use images/rule_based_labels2.png>
+Package pdftex.def Info: images/rule_based_labels2.png  used on input line 95.
+(pdftex.def)             Requested size: 236.01561pt x 152.04762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[35 <./images/rule_based_labels.png (PNG copy)> <./images/expression_icon.png> 
+<./images/rule_based_labels1a.png> <./images/blue_triangle_icon.png> <./images/
+rule_based_labels2.png (PNG copy)>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 11
+0.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+<images/open_field_calculater_icon.png, id=749, 28.105pt x 19.07124pt>
+File: images/open_field_calculater_icon.png Graphic file (type png)
+<use images/open_field_calculater_icon.png>
+Package pdftex.def Info: images/open_field_calculater_icon.png  used on input l
+ine 111.
+(pdftex.def)             Requested size: 17.22217pt x 11.68697pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
+<images/field_calculator_form.png, id=750, 851.18pt x 660.4675pt>
+File: images/field_calculator_form.png Graphic file (type png)
+<use images/field_calculator_form.png>
+Package pdftex.def Info: images/field_calculator_form.png  used on input line 1
+18.
+(pdftex.def)             Requested size: 226.57297pt x 175.79904pt.
+<images/headquarters_attribute_table.png, id=751, 757.83125pt x 263.98625pt>
+File: images/headquarters_attribute_table.png Graphic file (type png)
+<use images/headquarters_attribute_table.png>
+Package pdftex.def Info: images/headquarters_attribute_table.png  used on input
+ line 128.
+(pdftex.def)             Requested size: 259.6186pt x 90.43488pt.
+<images/edit_icon.png, id=752, 28.105pt x 24.09pt>
+File: images/edit_icon.png Graphic file (type png)
+<use images/edit_icon.png>
+Package pdftex.def Info: images/edit_icon.png  used on input line 133.
+(pdftex.def)             Requested size: 17.22217pt x 14.7625pt.
+<images/delete_field_icon.png, id=753, 26.0975pt x 25.09375pt>
+File: images/delete_field_icon.png Graphic file (type png)
+<use images/delete_field_icon.png>
+Package pdftex.def Info: images/delete_field_icon.png  used on input line 133.
+(pdftex.def)             Requested size: 17.22217pt x 16.56076pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--139
+
+ []
+
+[36 <./images/open_field_calculater_icon.png (PNG copy)> <./images/field_calcul
+ator_form.png> <./images/headquarters_attribute_table.png> <./images/edit_icon.
+png> <./images/delete_field_icon.png>]
+File: images/expression_icon.png Graphic file (type png)
+<use images/expression_icon.png>
+Package pdftex.def Info: images/expression_icon.png  used on input line 146.
+(pdftex.def)             Requested size: 17.22217pt x 15.60788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+<images/label_with_expression.png, id=762, 1662.21pt x 768.8725pt>
+File: images/label_with_expression.png Graphic file (type png)
+<use images/label_with_expression.png>
+Package pdftex.def Info: images/label_with_expression.png  used on input line 1
+53.
+(pdftex.def)             Requested size: 349.3057pt x 161.57358pt.
+<images/number_in_point2.png, id=763, 1190.4475pt x 528.97626pt>
+File: images/number_in_point2.png Graphic file (type png)
+<use images/number_in_point2.png>
+Package pdftex.def Info: images/number_in_point2.png  used on input line 195.
+(pdftex.def)             Requested size: 221.85526pt x 98.57744pt.
+) (./content/ch_shapefiles.tex [37 <./images/label_with_expression.png> <./imag
+es/number_in_point2.png>]
+Chapter 13.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/10 Information about the in-di-vid-ual files that make up a shap
+e-file can be found here: [][]$\OT1/cmtt/m/n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+<images/add_vector_layer_icon.png, id=782, 33.12375pt x 36.135pt>
+File: images/add_vector_layer_icon.png Graphic file (type png)
+<use images/add_vector_layer_icon.png>
+Package pdftex.def Info: images/add_vector_layer_icon.png  used on input line 3
+2.
+(pdftex.def)             Requested size: 17.22217pt x 18.78809pt.
+File: images/data_source_manager_icon.png Graphic file (type png)
+<use images/data_source_manager_icon.png>
+Package pdftex.def Info: images/data_source_manager_icon.png  used on input lin
+e 39.
+(pdftex.def)             Requested size: 17.22217pt x 15.45618pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+<images/data_source_manager_window.png, id=783, 721.69624pt x 658.46pt>
+File: images/data_source_manager_window.png Graphic file (type png)
+<use images/data_source_manager_window.png>
+Package pdftex.def Info: images/data_source_manager_window.png  used on input l
+ine 50.
+(pdftex.def)             Requested size: 212.41261pt x 193.80194pt.
+<images/shapefile_added_to_uk_basemap.png, id=784, 596.2275pt x 787.94376pt>
+File: images/shapefile_added_to_uk_basemap.png Graphic file (type png)
+<use images/shapefile_added_to_uk_basemap.png>
+Package pdftex.def Info: images/shapefile_added_to_uk_basemap.png  used on inpu
+t line 54.
+(pdftex.def)             Requested size: 141.61081pt x 187.13858pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[38
+
+ <./images/add_vector_layer_icon.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 74
+.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+) (./content/ch_tablejoin.tex [39 <./images/data_source_manager_window.png (PNG
+ copy)> <./images/shapefile_added_to_uk_basemap.png>]
+Chapter 14.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<images/csv_street_crime.png, id=806, 1559.8275pt x 195.73125pt>
+File: images/csv_street_crime.png Graphic file (type png)
+<use images/csv_street_crime.png>
+Package pdftex.def Info: images/csv_street_crime.png  used on input line 19.
+(pdftex.def)             Requested size: 472.03123pt x 59.23053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+File: images/add_delimited_text_layer_icon.png Graphic file (type png)
+<use images/add_delimited_text_layer_icon.png>
+Package pdftex.def Info: images/add_delimited_text_layer_icon.png  used on inpu
+t line 32.
+(pdftex.def)             Requested size: 17.22217pt x 16.76952pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--63
+
+ []
+
+<images/data_source_manager_window_delimited_text.png, id=807, 1106.1325pt x 86
+5.2325pt>
+File: images/data_source_manager_window_delimited_text.png Graphic file (type p
+ng)
+<use images/data_source_manager_window_delimited_text.png>
+Package pdftex.def Info: images/data_source_manager_window_delimited_text.png  
+used on input line 66.
+(pdftex.def)             Requested size: 472.03123pt x 369.23062pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+[40
+
+ <./images/csv_street_crime.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+<images/green_button_icon.png, id=813, 32.12pt x 29.10875pt>
+File: images/green_button_icon.png Graphic file (type png)
+<use images/green_button_icon.png>
+Package pdftex.def Info: images/green_button_icon.png  used on input line 83.
+(pdftex.def)             Requested size: 17.22217pt x 15.60788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+<images/layer_properties_join.png, id=814, 1460.45625pt x 933.4875pt>
+File: images/layer_properties_join.png Graphic file (type png)
+<use images/layer_properties_join.png>
+Package pdftex.def Info: images/layer_properties_join.png  used on input line 9
+3.
+(pdftex.def)             Requested size: 377.62642pt x 241.3621pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[41 <./images/data_source_manager_window_delimited_text.png (PNG copy)> <./imag
+es/green_button_icon.png>]
+<images/layer_properties_source_fields.png, id=820, 1197.47375pt x 762.85pt>
+File: images/layer_properties_source_fields.png Graphic file (type png)
+<use images/layer_properties_source_fields.png>
+Package pdftex.def Info: images/layer_properties_source_fields.png  used on inp
+ut line 106.
+(pdftex.def)             Requested size: 377.62642pt x 240.56674pt.
+) (./content/ch_symbology.tex
+Underfull \hbox (badness 10000) in paragraph at lines 111--1
+
+ []
+
+[42 <./images/layer_properties_join.png (PNG copy)> <./images/layer_properties_
+source_fields.png (PNG copy)>]
+Chapter 15.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[43
+
+]
+<images/street_crime_graduated1.png, id=836, 1577.895pt x 843.15pt>
+File: images/street_crime_graduated1.png Graphic file (type png)
+<use images/street_crime_graduated1.png>
+Package pdftex.def Info: images/street_crime_graduated1.png  used on input line
+ 81.
+(pdftex.def)             Requested size: 377.62642pt x 201.78119pt.
+<images/street_crime_stroke_colour.png, id=837, 1577.895pt x 845.1575pt>
+File: images/street_crime_stroke_colour.png Graphic file (type png)
+<use images/street_crime_stroke_colour.png>
+Package pdftex.def Info: images/street_crime_stroke_colour.png  used on input l
+ine 88.
+(pdftex.def)             Requested size: 377.62642pt x 202.26161pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[44 <./images/street_crime_graduated1.png> <./images/street_crime_stroke_colour
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--110
+
+ []
+
+<images/boarders_area_colour1.png, id=844, 1361.085pt x 717.68124pt>
+File: images/boarders_area_colour1.png Graphic file (type png)
+<use images/boarders_area_colour1.png>
+Package pdftex.def Info: images/boarders_area_colour1.png  used on input line 1
+13.
+(pdftex.def)             Requested size: 424.82523pt x 224.00105pt.
+<images/boarders_area_colour2.png, id=845, 841.1425pt x 539.01375pt>
+File: images/boarders_area_colour2.png Graphic file (type png)
+<use images/boarders_area_colour2.png>
+Package pdftex.def Info: images/boarders_area_colour2.png  used on input line 1
+20.
+(pdftex.def)             Requested size: 236.01561pt x 151.24358pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+[45 <./images/boarders_area_colour1.png (PNG copy)> <./images/boarders_area_col
+our2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
+
+ []
+
+<images/styling_histogram.png, id=852, 986.68625pt x 925.4575pt>
+File: images/styling_histogram.png Graphic file (type png)
+<use images/styling_histogram.png>
+Package pdftex.def Info: images/styling_histogram.png  used on input line 150.
+(pdftex.def)             Requested size: 330.42041pt x 309.92075pt.
+[46 <./images/styling_histogram.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+ []
+
+<images/mode_equal_interval.png, id=858, 1039.885pt x 413.545pt>
+File: images/mode_equal_interval.png Graphic file (type png)
+<use images/mode_equal_interval.png>
+Package pdftex.def Info: images/mode_equal_interval.png  used on input line 166
+.
+(pdftex.def)             Requested size: 226.57297pt x 90.10306pt.
+<images/mode_quantile.png, id=859, 1035.87pt x 400.49625pt>
+File: images/mode_quantile.png Graphic file (type png)
+<use images/mode_quantile.png>
+Package pdftex.def Info: images/mode_quantile.png  used on input line 170.
+(pdftex.def)             Requested size: 226.57297pt x 87.59612pt.
+<images/mode_jenks.png, id=860, 1046.91125pt x 399.4925pt>
+File: images/mode_jenks.png Graphic file (type png)
+<use images/mode_jenks.png>
+Package pdftex.def Info: images/mode_jenks.png  used on input line 176.
+(pdftex.def)             Requested size: 226.57297pt x 86.45612pt.
+<images/mode_stddev.png, id=861, 1039.885pt x 412.54124pt>
+File: images/mode_stddev.png Graphic file (type png)
+<use images/mode_stddev.png>
+Package pdftex.def Info: images/mode_stddev.png  used on input line 180.
+(pdftex.def)             Requested size: 226.57297pt x 89.88437pt.
+<images/mode_pretty.png, id=862, 1042.89626pt x 404.51125pt>
+File: images/mode_pretty.png Graphic file (type png)
+<use images/mode_pretty.png>
+Package pdftex.def Info: images/mode_pretty.png  used on input line 186.
+(pdftex.def)             Requested size: 226.57297pt x 87.88171pt.
+[47 <./images/mode_equal_interval.png (PNG copy)> <./images/mode_quantile.png (
+PNG copy)> <./images/mode_jenks.png (PNG copy)> <./images/mode_stddev.png (PNG 
+copy)> <./images/mode_pretty.png (PNG copy)>]
+<images/graduated_symbology_options.png, id=869, 565.11125pt x 842.14626pt>
+File: images/graduated_symbology_options.png Graphic file (type png)
+<use images/graduated_symbology_options.png>
+Package pdftex.def Info: images/graduated_symbology_options.png  used on input 
+line 212.
+(pdftex.def)             Requested size: 188.8096pt x 281.3658pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
+
+ []
+
+File: images/styling_redo_undo_icon.png Graphic file (type png)
+<use images/styling_redo_undo_icon.png>
+Package pdftex.def Info: images/styling_redo_undo_icon.png  used on input line 
+231.
+(pdftex.def)             Requested size: 17.22217pt x 8.46486pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ô in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[48 <./images/graduated_symbology_options.png>]
+<images/duplicate_layer.png, id=876, 472.76625pt x 547.04375pt>
+File: images/duplicate_layer.png Graphic file (type png)
+<use images/duplicate_layer.png>
+Package pdftex.def Info: images/duplicate_layer.png  used on input line 288.
+(pdftex.def)             Requested size: 188.8096pt x 218.47972pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+<images/add_class_layer_styling.png, id=877, 668.4975pt x 917.4275pt>
+File: images/add_class_layer_styling.png Graphic file (type png)
+<use images/add_class_layer_styling.png>
+Package pdftex.def Info: images/add_class_layer_styling.png  used on input line
+ 305.
+(pdftex.def)             Requested size: 141.61081pt x 194.34532pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49 <./images/duplicate_layer.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+<images/save_as_qgis_layer_style_file.png, id=886, 673.51625pt x 384.43625pt>
+File: images/save_as_qgis_layer_style_file.png Graphic file (type png)
+<use images/save_as_qgis_layer_style_file.png>
+Package pdftex.def Info: images/save_as_qgis_layer_style_file.png  used on inpu
+t line 330.
+(pdftex.def)             Requested size: 236.01561pt x 134.71307pt.
+[50 <./images/add_class_layer_styling.png (PNG copy)> <./images/save_as_qgis_la
+yer_style_file.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+<images/save_style.png, id=893, 1010.77625pt x 933.4875pt>
+File: images/save_style.png Graphic file (type png)
+<use images/save_style.png>
+Package pdftex.def Info: images/save_style.png  used on input line 340.
+(pdftex.def)             Requested size: 283.22162pt x 261.55989pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+<images/load_style.png, id=894, 756.8275pt x 396.48125pt>
+File: images/load_style.png Graphic file (type png)
+<use images/load_style.png>
+Package pdftex.def Info: images/load_style.png  used on input line 349.
+(pdftex.def)             Requested size: 188.8096pt x 98.90831pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+) (./content/ch_printlayout.tex [51 <./images/save_style.png (PNG copy)> <./ima
+ges/load_style.png (PNG copy)>]
+Chapter 16.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 7.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+<images/create_print_layout_name.png, id=901, 380.42125pt x 150.5625pt>
+File: images/create_print_layout_name.png Graphic file (type png)
+<use images/create_print_layout_name.png>
+Package pdftex.def Info: images/create_print_layout_name.png  used on input lin
+e 28.
+(pdftex.def)             Requested size: 118.0078pt x 46.70375pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+<images/print_layout_orientation.png, id=902, 931.48pt x 667.49374pt>
+File: images/print_layout_orientation.png Graphic file (type png)
+<use images/print_layout_orientation.png>
+Package pdftex.def Info: images/print_layout_orientation.png  used on input lin
+e 41.
+(pdftex.def)             Requested size: 188.8096pt x 135.29915pt.
+<images/print_layout_full_window.png, id=903, 1541.76pt x 958.58125pt>
+File: images/print_layout_full_window.png Graphic file (type png)
+<use images/print_layout_full_window.png>
+Package pdftex.def Info: images/print_layout_full_window.png  used on input lin
+e 48.
+(pdftex.def)             Requested size: 330.42041pt x 205.43274pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/adds_a_new_map_to_the_layout_icon.png, id=904, 39.14626pt x 37.13875pt>
+
+File: images/adds_a_new_map_to_the_layout_icon.png Graphic file (type png)
+<use images/adds_a_new_map_to_the_layout_icon.png>
+Package pdftex.def Info: images/adds_a_new_map_to_the_layout_icon.png  used on 
+input line 54.
+(pdftex.def)             Requested size: 17.22217pt x 16.33939pt.
+[52
+
+ <./images/create_print_layout_name.png (PNG copy)> <./images/print_layout_orie
+ntation.png>]
+<images/select_move_item_icon.png, id=912, 35.13126pt x 36.135pt>
+File: images/select_move_item_icon.png Graphic file (type png)
+<use images/select_move_item_icon.png>
+Package pdftex.def Info: images/select_move_item_icon.png  used on input line 5
+6.
+(pdftex.def)             Requested size: 17.22217pt x 17.714pt.
+<images/move_item_content_icon.png, id=913, 38.1425pt x 38.1425pt>
+File: images/move_item_content_icon.png Graphic file (type png)
+<use images/move_item_content_icon.png>
+Package pdftex.def Info: images/move_item_content_icon.png  used on input line 
+59.
+(pdftex.def)             Requested size: 17.22217pt x 17.22273pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<images/refresh_icon.png, id=914, 40.15pt x 33.12375pt>
+File: images/refresh_icon.png Graphic file (type png)
+<use images/refresh_icon.png>
+Package pdftex.def Info: images/refresh_icon.png  used on input line 63.
+(pdftex.def)             Requested size: 17.22217pt x 14.20856pt.
+<images/add_legend_icon.png, id=915, 33.12375pt x 39.14626pt>
+File: images/add_legend_icon.png Graphic file (type png)
+<use images/add_legend_icon.png>
+Package pdftex.def Info: images/add_legend_icon.png  used on input line 66.
+(pdftex.def)             Requested size: 17.22217pt x 20.35378pt.
+<images/add_new_label_icon.png, id=916, 41.15375pt x 38.1425pt>
+File: images/add_new_label_icon.png Graphic file (type png)
+<use images/add_new_label_icon.png>
+Package pdftex.def Info: images/add_new_label_icon.png  used on input line 71.
+(pdftex.def)             Requested size: 17.22217pt x 15.96211pt.
+<images/add_attribute_table_icon.png, id=917, 33.12375pt x 29.10875pt>
+File: images/add_attribute_table_icon.png Graphic file (type png)
+<use images/add_attribute_table_icon.png>
+Package pdftex.def Info: images/add_attribute_table_icon.png  used on input lin
+e 75.
+(pdftex.def)             Requested size: 17.22217pt x 15.13486pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+<images/add_arrow_icon.png, id=918, 35.13126pt x 30.1125pt>
+File: images/add_arrow_icon.png Graphic file (type png)
+<use images/add_arrow_icon.png>
+Package pdftex.def Info: images/add_arrow_icon.png  used on input line 78.
+(pdftex.def)             Requested size: 17.22217pt x 14.76167pt.
+<images/add_scale_bars_icon.png, id=919, 38.1425pt x 29.10875pt>
+File: images/add_scale_bars_icon.png Graphic file (type png)
+<use images/add_scale_bars_icon.png>
+Package pdftex.def Info: images/add_scale_bars_icon.png  used on input line 81.
+
+(pdftex.def)             Requested size: 17.22217pt x 13.14366pt.
+<images/add_image_icon.png, id=920, 40.15pt x 37.13875pt>
+File: images/add_image_icon.png Graphic file (type png)
+<use images/add_image_icon.png>
+Package pdftex.def Info: images/add_image_icon.png  used on input line 86.
+(pdftex.def)             Requested size: 17.22217pt x 15.9308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+<images/undo_redo_layout_icons.png, id=921, 65.24374pt x 28.105pt>
+File: images/undo_redo_layout_icons.png Graphic file (type png)
+<use images/undo_redo_layout_icons.png>
+Package pdftex.def Info: images/undo_redo_layout_icons.png  used on input line 
+89.
+(pdftex.def)             Requested size: 17.22217pt x 7.41862pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+LaTeX Warning: Command \textcopyright invalid in math mode on input line 92.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 92.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 92.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+) (./content/ch_latex.tex [53 <./images/print_layout_full_window.png (PNG copy)
+> <./images/adds_a_new_map_to_the_layout_icon.png (PNG copy)> <./images/select_
+move_item_icon.png (PNG copy)> <./images/move_item_content_icon.png (PNG copy)>
+ <./images/refresh_icon.png (PNG copy)> <./images/add_legend_icon.png (PNG copy
+)> <./images/add_new_label_icon.png (PNG copy)> <./images/add_attribute_table_i
+con.png (PNG copy)> <./images/add_arrow_icon.png (PNG copy)> <./images/add_scal
+e_bars_icon.png (PNG copy)> <./images/add_image_icon.png (PNG copy)> <./images/
+undo_redo_layout_icons.png>]
+Chapter 17.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+) (./content/ch_summary.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+[54
+
+]
+Chapter 18.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+File: images/add_delimited_text_layer_icon.png Graphic file (type png)
+<use images/add_delimited_text_layer_icon.png>
+Package pdftex.def Info: images/add_delimited_text_layer_icon.png  used on inpu
+t line 18.
+(pdftex.def)             Requested size: 17.22217pt x 16.76952pt.
+File: images/add_vector_layer_icon.png Graphic file (type png)
+<use images/add_vector_layer_icon.png>
+Package pdftex.def Info: images/add_vector_layer_icon.png  used on input line 2
+8.
+(pdftex.def)             Requested size: 17.22217pt x 18.78809pt.
+File: images/green_button_icon.png Graphic file (type png)
+<use images/green_button_icon.png>
+Package pdftex.def Info: images/green_button_icon.png  used on input line 31.
+(pdftex.def)             Requested size: 17.22217pt x 15.60788pt.
+File: images/attribute_table_icon.png Graphic file (type png)
+<use images/attribute_table_icon.png>
+Package pdftex.def Info: images/attribute_table_icon.png  used on input line 36
+.
+(pdftex.def)             Requested size: 17.22217pt x 19.00453pt.
+File: images/expression_icon.png Graphic file (type png)
+<use images/expression_icon.png>
+Package pdftex.def Info: images/expression_icon.png  used on input line 38.
+(pdftex.def)             Requested size: 17.22217pt x 15.60788pt.
+File: images/layer_styling_panel_icon.png Graphic file (type png)
+<use images/layer_styling_panel_icon.png>
+Package pdftex.def Info: images/layer_styling_panel_icon.png  used on input lin
+e 42.
+(pdftex.def)             Requested size: 17.22217pt x 17.93958pt.
+) [55
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+ (./main_document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package rerunfilecheck Info: File `main_document.out' has not changed.
+(rerunfilecheck)             Checksum: DA8905A7BE41689AEB889A0DCD023353;5239.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+ ) 
+Here is how much of TeX's memory you used:
+ 20559 strings out of 494805
+ 383002 string characters out of 6178000
+ 523536 words of memory out of 5000000
+ 23007 multiletter control sequences out of 15000+600000
+ 14795 words of font info for 56 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 64i,12n,94p,585b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main_document.pdf (56 pages, 17507553 bytes).
+PDF statistics:
+ 1079 PDF objects out of 1200 (max. 8388607)
+ 872 compressed objects within 9 object streams
+ 323 named destinations out of 1000 (max. 500000)
+ 1204 words of extra memory for PDF output out of 10000 (max. 10000000)
+

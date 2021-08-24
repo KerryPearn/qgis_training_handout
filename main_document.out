@@ -1,0 +1,72 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction to QGIS \(using v3.14\)}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Online resources}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{This tutorial}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{We will cover these QGIS skills}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Tutorial data}{section.1.2}% 5
+\BOOKMARK [0][-]{chapter.2}{The QGIS software environment}{}% 6
+\BOOKMARK [0][-]{chapter.3}{Base maps}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Add a simple world map}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Add open street map}{chapter.3}% 9
+\BOOKMARK [0][-]{chapter.4}{Map navigation}{}% 10
+\BOOKMARK [0][-]{chapter.5}{Layers}{}% 11
+\BOOKMARK [1][-]{section.5.1}{Attribute table}{chapter.5}% 12
+\BOOKMARK [2][-]{subsection.5.1.1}{Relationship between the attribute table and the map canvas}{section.5.1}% 13
+\BOOKMARK [1][-]{section.5.2}{Layer Properties window}{chapter.5}% 14
+\BOOKMARK [0][-]{chapter.6}{Projection}{}% 15
+\BOOKMARK [0][-]{chapter.7}{Selected features \046 save as new layer}{}% 16
+\BOOKMARK [1][-]{section.7.1}{Select a feature}{chapter.7}% 17
+\BOOKMARK [2][-]{subsection.7.1.1}{Save selected feature as a new feature layer}{section.7.1}% 18
+\BOOKMARK [0][-]{chapter.8}{Symbology: Single symbol}{}% 19
+\BOOKMARK [1][-]{section.8.1}{Create a landmass and a coastline}{chapter.8}% 20
+\BOOKMARK [0][-]{chapter.9}{Adding dense point data \(own data with geometry\)}{}% 21
+\BOOKMARK [1][-]{section.9.1}{Data}{chapter.9}% 22
+\BOOKMARK [1][-]{section.9.2}{Add delimited text layer}{chapter.9}% 23
+\BOOKMARK [1][-]{section.9.3}{Attribute table}{chapter.9}% 24
+\BOOKMARK [2][-]{subsection.9.3.1}{Open attribute table}{section.9.3}% 25
+\BOOKMARK [2][-]{subsection.9.3.2}{Relationship between the attribute table and the map canvas}{section.9.3}% 26
+\BOOKMARK [1][-]{section.9.4}{Symbology for dense point data}{chapter.9}% 27
+\BOOKMARK [2][-]{subsection.9.4.1}{Heatmap}{section.9.4}% 28
+\BOOKMARK [2][-]{subsection.9.4.2}{Point Cluster Renderer}{section.9.4}% 29
+\BOOKMARK [0][-]{chapter.10}{Create groups of layers}{}% 30
+\BOOKMARK [1][-]{section.10.1}{Set up a group}{chapter.10}% 31
+\BOOKMARK [0][-]{chapter.11}{Adding sparse point data \(own data with geometry\)}{}% 32
+\BOOKMARK [1][-]{section.11.1}{Data}{chapter.11}% 33
+\BOOKMARK [1][-]{section.11.2}{Add delimited text file}{chapter.11}% 34
+\BOOKMARK [1][-]{section.11.3}{Symbology: Categorized}{chapter.11}% 35
+\BOOKMARK [2][-]{subsection.11.3.1}{Choose the style for each symbol}{section.11.3}% 36
+\BOOKMARK [2][-]{subsection.11.3.2}{Use rule based styles}{section.11.3}% 37
+\BOOKMARK [0][-]{chapter.12}{Add labels}{}% 38
+\BOOKMARK [1][-]{section.12.1}{Put a label next to a point}{chapter.12}% 39
+\BOOKMARK [1][-]{section.12.2}{Using rule based labels}{chapter.12}% 40
+\BOOKMARK [1][-]{section.12.3}{Put a number in a point}{chapter.12}% 41
+\BOOKMARK [0][-]{chapter.13}{Shapefiles}{}% 42
+\BOOKMARK [1][-]{section.13.1}{Data}{chapter.13}% 43
+\BOOKMARK [1][-]{section.13.2}{Add a vector layer}{chapter.13}% 44
+\BOOKMARK [1][-]{section.13.3}{Attribute table}{chapter.13}% 45
+\BOOKMARK [1][-]{section.13.4}{Practice what you've learnt on this shapefile}{chapter.13}% 46
+\BOOKMARK [0][-]{chapter.14}{Adding data \(without geometry\) to a shapefile: table joins}{}% 47
+\BOOKMARK [1][-]{section.14.1}{Data}{chapter.14}% 48
+\BOOKMARK [1][-]{section.14.2}{Add delimited text layer}{chapter.14}% 49
+\BOOKMARK [1][-]{section.14.3}{Table join: Join data from csv file to shapefile}{chapter.14}% 50
+\BOOKMARK [0][-]{chapter.15}{Symbology: Graduated}{}% 51
+\BOOKMARK [1][-]{section.15.1}{Apply graduated symbology \(colours represent numerical ranges\)}{chapter.15}% 52
+\BOOKMARK [1][-]{section.15.2}{Set polygon boarders to automatically have fill colour}{chapter.15}% 53
+\BOOKMARK [1][-]{section.15.3}{Customising and choosing good graduated symbology}{chapter.15}% 54
+\BOOKMARK [2][-]{subsection.15.3.1}{Use the histogram to inform the number of, \046 range for each class band}{section.15.3}% 55
+\BOOKMARK [2][-]{subsection.15.3.2}{Use predefined algorithms}{section.15.3}% 56
+\BOOKMARK [2][-]{subsection.15.3.3}{Number of classes}{section.15.3}% 57
+\BOOKMARK [2][-]{subsection.15.3.4}{Colour ramp}{section.15.3}% 58
+\BOOKMARK [2][-]{subsection.15.3.5}{Manually change the symbology}{section.15.3}% 59
+\BOOKMARK [2][-]{subsection.15.3.6}{Opacity}{section.15.3}% 60
+\BOOKMARK [1][-]{section.15.4}{Style the layer with values from another field}{chapter.15}% 61
+\BOOKMARK [2][-]{subsection.15.4.1}{Use existing symbology}{section.15.4}% 62
+\BOOKMARK [2][-]{subsection.15.4.2}{Update symbology based on new values}{section.15.4}% 63
+\BOOKMARK [1][-]{section.15.5}{Duplicate layer}{chapter.15}% 64
+\BOOKMARK [1][-]{section.15.6}{Copy and paste style}{chapter.15}% 65
+\BOOKMARK [1][-]{section.15.7}{Save and Load Style}{chapter.15}% 66
+\BOOKMARK [1][-]{section.15.8}{Rename layers}{chapter.15}% 67
+\BOOKMARK [0][-]{chapter.16}{Export your map}{}% 68
+\BOOKMARK [1][-]{section.16.1}{To save just the contents of the map canvas: Export}{chapter.16}% 69
+\BOOKMARK [1][-]{section.16.2}{To save items in addition to the map canvas: Print layout}{chapter.16}% 70
+\BOOKMARK [0][-]{chapter.17}{LaTeX}{}% 71
+\BOOKMARK [0][-]{chapter.18}{Summary}{}% 72

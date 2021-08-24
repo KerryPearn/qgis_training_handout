@@ -1,0 +1,33 @@
+\chapter{Trouble shooting}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[OC]{\leftmark}
+\fancyhead[EC]{\rightmark}
+%\renewcommand{\footrulewidth}{1pt}
+\cfoot{\thepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{While making this tutorial}
+
+\begin{enumerate}[~~~1)]
+	\item
+LSOAs in some regions are out of region. Created a shapefile with only the LSOAs that exist in the counties.
+	\item
+
+LSOA shapefile has erroneous boundaries – so count point to polygon didn’t work. Can ignore polygons that have error. Run validity geometry to see where and what is the problem.
+	\item
+Not experience to edit the shapefiles (yet)
+	\item
+So I get round these issues by writing my own python code externally and reading in the processed data.
+	\item
+python code to do it automatically…
+	\item
+google errors and use QGIS forums. Most troubels you will encounter have already been asked.
+	\item
+Find new shapefiles. Show the google search did to get the counties shapefile
+	\item
+Show the steps took to make data for this tutorial (Find LSOAs outside area, find shapefile LSOA invalid, run checker and try to edit shapefile end up write spyder code, find counties shapefile,manually select LSOAs and save selected features as new layer)
+\end{enumerate}

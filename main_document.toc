@@ -1,0 +1,78 @@
+\contentsline {chapter}{\numberline {1}Introduction to QGIS (using v3.14)}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Online resources}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}This tutorial}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}We will cover these QGIS skills}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Tutorial data}{3}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}The QGIS software environment}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Base maps}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Add a simple world map}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Add open street map}{8}{section.3.2}
+\contentsline {chapter}{\numberline {4}Map navigation}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}Layers}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}Attribute table}{10}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Relationship between the attribute table and the map canvas}{11}{subsection.5.1.1}
+\contentsline {subsubsection}{From attribute table to map canvas}{11}{section*.12}
+\contentsline {subsubsection}{Moving the other way: from map canvas to attribute table using the \textit {Identify Feature} tool}{12}{section*.16}
+\contentsline {subsubsection}{From map canvas to attribute table using the \textit {Select Feature(s)} tool}{13}{section*.18}
+\contentsline {section}{\numberline {5.2}Layer Properties window}{14}{section.5.2}
+\contentsline {chapter}{\numberline {6}Projection}{15}{chapter.6}
+\contentsline {chapter}{\numberline {7}Selected features \& save as new layer}{17}{chapter.7}
+\contentsline {section}{\numberline {7.1}Select a feature}{17}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Save selected feature as a new feature layer}{19}{subsection.7.1.1}
+\contentsline {chapter}{\numberline {8}Symbology: Single symbol}{20}{chapter.8}
+\contentsline {section}{\numberline {8.1}Create a landmass and a coastline}{20}{section.8.1}
+\contentsline {chapter}{\numberline {9}Adding dense point data (own data with geometry)}{22}{chapter.9}
+\contentsline {section}{\numberline {9.1}Data}{22}{section.9.1}
+\contentsline {section}{\numberline {9.2}Add delimited text layer}{22}{section.9.2}
+\contentsline {section}{\numberline {9.3}Attribute table}{24}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Open attribute table}{24}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Relationship between the attribute table and the map canvas}{25}{subsection.9.3.2}
+\contentsline {subsubsection}{From attribute table to map canvas}{25}{section*.36}
+\contentsline {subsubsection}{From map canvas to attribute table using the \textit {Identify Feature} tool}{26}{section*.40}
+\contentsline {subsubsection}{From map canvas to attribute table using the \textit {Select Feature(s)} tool}{26}{section*.42}
+\contentsline {section}{\numberline {9.4}Symbology for dense point data}{27}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Heatmap}{27}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Point Cluster Renderer}{28}{subsection.9.4.2}
+\contentsline {chapter}{\numberline {10}Create groups of layers}{29}{chapter.10}
+\contentsline {section}{\numberline {10.1}Set up a group}{29}{section.10.1}
+\contentsline {chapter}{\numberline {11}Adding sparse point data (own data with geometry)}{30}{chapter.11}
+\contentsline {section}{\numberline {11.1}Data}{30}{section.11.1}
+\contentsline {section}{\numberline {11.2}Add delimited text file}{30}{section.11.2}
+\contentsline {section}{\numberline {11.3}Symbology: Categorized}{32}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Choose the style for each symbol}{32}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Use rule based styles}{33}{subsection.11.3.2}
+\contentsline {chapter}{\numberline {12}Add labels}{34}{chapter.12}
+\contentsline {section}{\numberline {12.1}Put a label next to a point}{34}{section.12.1}
+\contentsline {section}{\numberline {12.2}Using rule based labels}{35}{section.12.2}
+\contentsline {section}{\numberline {12.3}Put a number in a point}{36}{section.12.3}
+\contentsline {chapter}{\numberline {13}Shapefiles}{38}{chapter.13}
+\contentsline {section}{\numberline {13.1}Data}{38}{section.13.1}
+\contentsline {section}{\numberline {13.2}Add a vector layer}{38}{section.13.2}
+\contentsline {section}{\numberline {13.3}Attribute table}{39}{section.13.3}
+\contentsline {section}{\numberline {13.4}Practice what you've learnt on this shapefile}{39}{section.13.4}
+\contentsline {chapter}{\numberline {14}Adding data (without geometry) to a shapefile: table joins}{40}{chapter.14}
+\contentsline {section}{\numberline {14.1}Data}{40}{section.14.1}
+\contentsline {section}{\numberline {14.2}Add delimited text layer}{40}{section.14.2}
+\contentsline {section}{\numberline {14.3}Table join: Join data from csv file to shapefile}{41}{section.14.3}
+\contentsline {chapter}{\numberline {15}Symbology: Graduated}{43}{chapter.15}
+\contentsline {section}{\numberline {15.1}Apply graduated symbology (colours represent numerical ranges)}{43}{section.15.1}
+\contentsline {section}{\numberline {15.2}Set polygon boarders to automatically have fill colour}{45}{section.15.2}
+\contentsline {section}{\numberline {15.3}Customising and choosing good graduated symbology}{46}{section.15.3}
+\contentsline {subsection}{\numberline {15.3.1}Use the histogram to inform the number of, \& range for each class band}{46}{subsection.15.3.1}
+\contentsline {subsection}{\numberline {15.3.2}Use predefined algorithms}{47}{subsection.15.3.2}
+\contentsline {subsection}{\numberline {15.3.3}Number of classes}{47}{subsection.15.3.3}
+\contentsline {subsection}{\numberline {15.3.4}Colour ramp}{47}{subsection.15.3.4}
+\contentsline {subsection}{\numberline {15.3.5}Manually change the symbology}{47}{subsection.15.3.5}
+\contentsline {subsection}{\numberline {15.3.6}Opacity}{47}{subsection.15.3.6}
+\contentsline {section}{\numberline {15.4}Style the layer with values from another field}{48}{section.15.4}
+\contentsline {subsection}{\numberline {15.4.1}Use existing symbology}{48}{subsection.15.4.1}
+\contentsline {subsection}{\numberline {15.4.2}Update symbology based on new values}{48}{subsection.15.4.2}
+\contentsline {section}{\numberline {15.5}Duplicate layer}{49}{section.15.5}
+\contentsline {section}{\numberline {15.6}Copy and paste style}{49}{section.15.6}
+\contentsline {section}{\numberline {15.7}Save and Load Style}{50}{section.15.7}
+\contentsline {section}{\numberline {15.8}Rename layers}{51}{section.15.8}
+\contentsline {chapter}{\numberline {16}Export your map}{52}{chapter.16}
+\contentsline {section}{\numberline {16.1}To save just the contents of the map canvas: Export}{52}{section.16.1}
+\contentsline {section}{\numberline {16.2}To save items in addition to the map canvas: Print layout}{52}{section.16.2}
+\contentsline {chapter}{\numberline {17}\LaTeX }{54}{chapter.17}
+\contentsline {chapter}{\numberline {18}Summary}{55}{chapter.18}
